@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @soldeir001
-- 👀 I’m interested in Java Coding for the creation of Games or Softwares.
-- 🌱 I’m currently learning Core and Adavance Java Development.
-- 📫 How to reach me soldeir001@gmail.com
+- Working as a Cloud Engineer at IT By Design.
+- 📫 How to reach me: soldeir001@gmail.com
 
 <!---
 soldeir001/soldeir001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
